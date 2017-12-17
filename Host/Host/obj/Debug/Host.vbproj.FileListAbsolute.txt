@@ -1,0 +1,34 @@
+E:\Visual Studio\Host\Host\bin\Debug\Host.exe.config
+E:\Visual Studio\Host\Host\obj\Debug\Host.vbprojResolveAssemblyReference.cache
+E:\Visual Studio\Host\Host\obj\Debug\Host.Resources.resources
+E:\Visual Studio\Host\Host\obj\Debug\Host.vbproj.GenerateResource.Cache
+E:\Visual Studio\Host\Host\obj\Debug\Host.xml
+E:\Visual Studio\Host\Host\bin\Debug\Host.exe
+E:\Visual Studio\Host\Host\bin\Debug\Host.pdb
+E:\Visual Studio\Host\Host\bin\Debug\Host.xml
+E:\Visual Studio\Host\Host\obj\Debug\Host.Form1.resources
+E:\Visual Studio\Host\Host\obj\Debug\Host.exe
+E:\Visual Studio\Host\Host\obj\Debug\Host.pdb
+E:\Visual Studio\Gmail_Klogger\Host\Host\bin\Debug\Host.exe.config
+E:\Visual Studio\Gmail_Klogger\Host\Host\obj\Debug\Host.exe
+E:\Visual Studio\Gmail_Klogger\Host\Host\obj\Debug\Host.xml
+E:\Visual Studio\Gmail_Klogger\Host\Host\obj\Debug\Host.pdb
+E:\Visual Studio\Gmail_Klogger\Host\Host\bin\Debug\Host.exe
+E:\Visual Studio\Gmail_Klogger\Host\Host\bin\Debug\Host.pdb
+E:\Visual Studio\Gmail_Klogger\Host\Host\bin\Debug\Host.xml
+E:\Visual Studio\Gmail_Klogger\Host\Host\obj\Debug\Host.vbprojResolveAssemblyReference.cache
+E:\Visual Studio\Gmail_Klogger\Host\Host\obj\Debug\Host.Form1.resources
+E:\Visual Studio\Gmail_Klogger\Host\Host\obj\Debug\Host.Resources.resources
+E:\Visual Studio\Gmail_Klogger\Host\Host\obj\Debug\Host.vbproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2017\Projects\VB.NET\stub__server_example\Host\Host\bin\Debug\Host.exe.config
+D:\Documents\Visual Studio 2017\Projects\VB.NET\stub__server_example\Host\Host\bin\Debug\Host.exe
+D:\Documents\Visual Studio 2017\Projects\VB.NET\stub__server_example\Host\Host\bin\Debug\Host.pdb
+D:\Documents\Visual Studio 2017\Projects\VB.NET\stub__server_example\Host\Host\bin\Debug\Host.xml
+D:\Documents\Visual Studio 2017\Projects\VB.NET\stub__server_example\Host\Host\obj\Debug\Host.vbprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\VB.NET\stub__server_example\Host\Host\obj\Debug\Host.Form1.resources
+D:\Documents\Visual Studio 2017\Projects\VB.NET\stub__server_example\Host\Host\obj\Debug\Host.Resources.resources
+D:\Documents\Visual Studio 2017\Projects\VB.NET\stub__server_example\Host\Host\obj\Debug\Host.vbproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2017\Projects\VB.NET\stub__server_example\Host\Host\obj\Debug\Host.vbproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\Projects\VB.NET\stub__server_example\Host\Host\obj\Debug\Host.exe
+D:\Documents\Visual Studio 2017\Projects\VB.NET\stub__server_example\Host\Host\obj\Debug\Host.xml
+D:\Documents\Visual Studio 2017\Projects\VB.NET\stub__server_example\Host\Host\obj\Debug\Host.pdb
